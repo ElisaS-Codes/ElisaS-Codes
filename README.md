@@ -4,6 +4,7 @@
 - 🏳️‍⚧️ Trans pride!
 - 📫 Me pueden contactar en Discord en DasK#1805
 
+---
 
 - 👋 Hi! I'm Elisa S., SysAdmin and coder from Argentina!
 - 👀 I’m changing carrer, from SysAdmin and networking, to programing, and this place is gonna be my porfolio!
